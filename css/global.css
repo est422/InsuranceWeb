@@ -106,7 +106,8 @@ em, i {
 	font-style: italic;
 }
 b, strong {
-	font-weight: 700;
+    font-weight: 700;
+    color: #6d1517;
 }
 big, .big {
 	font-size: 110%;
@@ -3120,7 +3121,7 @@ dl>dd:after {
 	background: #8fc944
 }
 .alert_success a, .alert_success a:hover {
-	color: #5d9514
+	color: #fff
 }
 /* Muffin link ----------------------------------------------------------------------- */
 
