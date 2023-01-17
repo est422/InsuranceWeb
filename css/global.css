@@ -19517,3 +19517,34 @@ a.action_button:hover{text-decoration:none}
 #Content.no-padding, .template-slider #Content, .with_aside #Content {
     padding-top: 0px !important;
 }
+
+/* Custom sign up */
+form { display       : grid;
+	place-content : center;;
+}
+
+/* h2 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+} */
+
+.formcontainer { 
+	align-items: center;
+	vertical-align: middle;
+}
+
+.divider {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.divider hr {
+  margin: 7px 0px;
+  width: 35%;
+}
+
+.left { float: left; }
+
+.right { float: right; }
